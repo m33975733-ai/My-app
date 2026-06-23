@@ -1,0 +1,6 @@
+{
+  "name": "Android Silent DNS Filter Builder",
+  "description": "Configure, customize, and generate clean Kotlin/Java source code for a lightweight, battery-efficient Android DNS adult-content filtering app with stealth activation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
